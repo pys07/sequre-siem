@@ -142,6 +142,6 @@ Currently in the design and data modeling phase.
 
 ---
 
-## ✍️ Author
+## 👩🏻‍💻 Developer
 
 Made with ♥ by [Payal Samant](https://github.com/pys07)
